@@ -1,0 +1,5 @@
+C:\Users\migue\Applications\LBCExercise\ExpressionValidator\bin\Debug\net5.0\publish\ExpressionValidator.exe
+C:\Users\migue\Applications\LBCExercise\ExpressionValidator\bin\Debug\net5.0\publish\ExpressionValidator.dll
+C:\Users\migue\Applications\LBCExercise\ExpressionValidator\bin\Debug\net5.0\publish\ExpressionValidator.deps.json
+C:\Users\migue\Applications\LBCExercise\ExpressionValidator\bin\Debug\net5.0\publish\ExpressionValidator.runtimeconfig.json
+C:\Users\migue\Applications\LBCExercise\ExpressionValidator\bin\Debug\net5.0\publish\ExpressionValidator.pdb
